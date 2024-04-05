@@ -6,22 +6,22 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL ❌ / ✔️
-- les besoins auxquels répond GraphQL ❌ / ✔️
+- la différence entre REST et GraphQL ✔️
+- les besoins auxquels répond GraphQL ✔️
 - la définition d'un schéma
-- Query ❌ / ✔️
-- Mutation ❌ / ✔️
+- Query ✔️
+- Mutation ✔️
 - Subscription ❌ / ✔️
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/Onivoid/Omnisteria)
 
-Description :
+Description : Tout est dans le README du projet.
 
 ### Utilisation en production si applicable❌ / ✔️
 

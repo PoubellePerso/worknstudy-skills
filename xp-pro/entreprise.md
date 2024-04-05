@@ -2,7 +2,7 @@
 
 ## L'activité principale
 
-> Décris en quelques lignes l'activité principale de l'entreprise
+> Backend Python, Frontend React
 
 ## Ton équipe
 
